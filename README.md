@@ -17,6 +17,7 @@ The **EasyGo Template Generator** automates the above process by:
 - Using basic string manipulation techniques (string find and replacement) to efficiently handle the updates.
 
 This results in a significant reduction in the time and effort required to configure multiple switches.
+![Alt Text](TGimage.png)
 
 ## Example
 ### Input Template
